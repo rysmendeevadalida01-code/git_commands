@@ -16,6 +16,11 @@
 #  git remote add <variable_name>(usually origin) <link to repository> - 
 # свяска локального репозитория с удаленным и сохранение ссылки в переменную
 # git remote -v - проверить(неважно)
+
 # git push origin <branch_name> - отправка версии кода в удаленный репозиторий
 
+# ветка/branc - копия кода независимая от основной версии кода
 
+# git branch - вывод списка веток (проверить на какой ветке)
+# git branch <new_branch_name> - создание новой ветки
+# git checkout <branch_name> - переход на указанную ветку 
